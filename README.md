@@ -1,2 +1,7 @@
 # TEST TO GLOBANT COMPANY
- technical test for Globant company
+ Technical test for Globant company. 
+ 
+In this repository are the analyzes carried out in data science and machine learning algorithms used to provide solutions to some problems raised.
+
+
+![image](https://user-images.githubusercontent.com/70065089/132102818-4965846c-0163-4542-8a7b-2b11ce2d6e19.png)
