@@ -1,5 +1,4 @@
-# TEST TO GLOBANT COMPANY
- Technical test for Globant company. 
+# TEST TO DIABETES 
  
 In this repository are the analyzes carried out in data science and machine learning algorithms used to provide solutions to some problems raised.
 
